@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  .em {
+    margin: 0;
+    padding: 0;
+    font-size: 40px;
+  }
+  .grn{
+      font-size: 50px;
+      color: azure;
+      font-style: italic;
+      text-align: start;
+  }
+  
+  .abc {
+    width: 100px;
+    height: 50px;
+  }
+  img {
+    height: 30px;
+    width: 40px;
+    border-radius: 50%;
+  }
+  .res {
+    /* margin-left: 50px; */
+  }
+  .header {
+    text-align: center;
+    height: 15vh;
+    background-color: black;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+  }
+  .oo {
+    margin-top: 1px;
+    font-size: 15px;
+  }
+  .home {
+    color: black;
+    background-color: white;
+    border-radius: 15%;
+    padding: 10px;
+  }
+  .emb1 {
+    color: black;
+    background-color: white;
+    border-radius: 20%;
+    padding: 20px;
+    font-size: 10px;
+    margin: 5px;
+  }
+  .emb2 {
+    color: white;
+    background-color: black;
+    border-radius: 20%;
+    padding: 20px;
+    font-size: 10px;
+    margin: 5px;
+  }
+  .m {
+    padding: 20px;
+    text-decoration: none;
+    margin: 5px;
+    color: aliceblue;
+  }
+  .b3 {
+    color: white;
+    background-color: rgb(95, 176, 83);
+    border-radius: 20%;
+    padding: 10px;
+    font-size: 10px;
+  }
+  .header-content {
+    background-image: url(apple.jpg);
+    color: rgb(244, 239, 242);
+    height: 40vh;
+    font-size: medium;
+    margin-top: 0;
+  }
+  .b4 {color: white;
+      background-color: #525a51; 
+      border-radius: 20%;
+      padding: 10px;
+      font-size: 10px;
+  }
+  .about1 {
+    display: flex;
+    justify-content: space-between;
+    /* width: 80%; */
+    background-color: white;
+    margin: 0 auto;
+  }
+  .a1 {
+    margin: 30px;
+  }
+  .about2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    background: rgb(49, 51, 52);
+    color: white;
+  }
+  .b {
+    margin: 10px;
+  }
+  .contact {
+    width: 80%;
+    /* margin-left:; */
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    /* width: 80%; */
+    margin: 0 auto;
+    background-color: rgb(80, 79, 79);
+    color: white;
+    background: rgb(80, 79, 79)
+    );
+    /* box-shadow: 0 0 20px 0 black; */
+  }
